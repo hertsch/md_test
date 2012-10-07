@@ -1,5 +1,5 @@
 irgendwas anderes
 
-![Junge Katzen](kitten.jpg)
+![Junge Katzen](https://raw.github.com/hertsch/md_test/master/Media/kitten.jpg)
 
 ... naja...
